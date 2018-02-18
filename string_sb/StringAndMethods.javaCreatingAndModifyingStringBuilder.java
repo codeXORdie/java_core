@@ -1,4 +1,4 @@
-package stringbuilder;
+package string_sb;
 
 public class CreatingAndModifyingStringBuilder {
 	public static void main(String[] args) {
