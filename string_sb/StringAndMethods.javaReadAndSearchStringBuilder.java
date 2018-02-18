@@ -1,6 +1,6 @@
 // These methods do not change the text in the StringBuilder!!
 
-package stringbuilder;
+package string_sb;
 
 public class ReadAndSearchStringBuilder {
 	
