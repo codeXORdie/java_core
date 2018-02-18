@@ -1,4 +1,4 @@
-package string;
+package string_sb;
 
 public class StringAndMethods {
 	public static void main(String[] args) {
